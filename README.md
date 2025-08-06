@@ -24,7 +24,7 @@
 ### 🎯 What's Next?
 **Keep the momentum going!**
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jonisf87/skills-hello-github-actions/issues/1)
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jonisf87/skills-test-with-actions/issues/1)
 [![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://skills.github.com)
 
 *There's no better way to learn than building things!* 🚀
